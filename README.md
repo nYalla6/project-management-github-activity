@@ -76,9 +76,14 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
-1. I know how to make an ssh key and add it to GitHub So I don't need to login with password
-2. I learend GITHUB Issues
+1. About agile development
+2. Different types of pushing/project dev
+3. Git hub pulls/push/commit
+4. Collaborating with other people online
+5. Making sure you have the current versin
+6. Npm start/docker compose up –build -d to start up the website
+
 ### Things you don't understand about what we are doing / web development.
-1. I am completely lost and don't anything
+1. 
 ### Things you want to know next
 1. How to connect viewjs to elastic search
